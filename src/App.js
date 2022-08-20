@@ -13,7 +13,7 @@ function App() {
 
 return  (
   <>
-<Navbar  title="healthyfit" />
+<Navbar  title="healthyfitstyle" />
 
 
 <Login/>
